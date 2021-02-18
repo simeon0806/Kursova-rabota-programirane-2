@@ -1,0 +1,6 @@
+﻿  source.c
+C:\Users\Simeon\Desktop\PIK 2\PIK 2\source.c(275,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\Simeon\Desktop\PIK 2\PIK 2\source.c(275,22): warning C4024: 'sameID': different types for formal and actual parameter 1
+C:\Users\Simeon\Desktop\PIK 2\PIK 2\source.c(277,28): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[15]'
+C:\Users\Simeon\Desktop\PIK 2\PIK 2\source.c(277,28): warning C4024: 'checkID': different types for formal and actual parameter 1
+  PIK 2.vcxproj -> C:\Users\Simeon\Desktop\PIK 2\Debug\PIK 2.exe
